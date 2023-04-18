@@ -1,1 +1,1 @@
-# Spark_RDD_lab5
+Practicals - RDD (Resilient Distributed Dataset)
